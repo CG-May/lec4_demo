@@ -3,3 +3,5 @@ This is text file 2.
 
 Testing another commit
 
+Test edit in branch update 1
+
